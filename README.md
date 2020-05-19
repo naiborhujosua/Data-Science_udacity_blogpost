@@ -32,4 +32,4 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credited to Kaggle for availability of the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data/data?select=AB_NYC_2019.csv). Otherwise, feel free to use the code here as you would like! 
+Credited to Kaggle and Airnbnb for availability of the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data/data?select=AB_NYC_2019.csv). Otherwise, feel free to use the code here as you would like! 
