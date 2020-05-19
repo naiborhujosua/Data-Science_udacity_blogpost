@@ -27,7 +27,7 @@ I was interested in the Airbnb open data about New York City listings:
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the questions above. The notebooks is the process of answering all the questions above. There is a markdwon to show the thought process in solving the problems.
+There is 1 notebook available here to showcase work related to the questions above. The notebooks is the process of answering all the questions above. There is a markdwon to show the thought process in solving the problems.
 
 AB_NYC_2019.csv dataset contains 48895 rows and 16 columns about the  New York City Airnbnb listings Open Data, it contains different kinds of variables either numerical or categorical. It contains missing values as well that will be cleaned through the jupyter notebook.
 
