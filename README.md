@@ -28,7 +28,7 @@ Question 5: How many flats are more than expensive than 500$/night?Could we remo
 
 There are 1 notebooks available here to showcase work related to the questions above. The notebooks is the process of answering all the questions above. There is a markdwon to show the thought process in solving the problems.
 
-AB_NYC_2019.csv      - This observations contain 48895 rows and 16 columns about the  New York City Airnbnb listings Open Data, it contains different kinds of variables either numerical or categorical. It contains missing values as well that will be cleaned through the jupyter notebook.
+AB_NYC_2019.csv dataset contains 48895 rows and 16 columns about the  New York City Airnbnb listings Open Data, it contains different kinds of variables either numerical or categorical. It contains missing values as well that will be cleaned through the jupyter notebook.
 
 ## Results<a name="results"></a>
 
