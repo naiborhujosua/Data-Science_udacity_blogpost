@@ -33,7 +33,7 @@ AB_NYC_2019.csv dataset contains 48895 rows and 16 columns about the  New York C
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@naiborhujosua/demystifying-new-york-city-airbnb-open-data-54baf5320513).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
