@@ -22,6 +22,7 @@ I was interested in the Airbnb open data about New York City listings:
 > * Question 3: What are the Top 10 neighbourhood with Airbnb listings? Visualize it
 > * Question 4: What is the influence neighbourhood group on roop type?  visualize it
 > * Question 5: How many flats are more than expensive than 500$/night?Could we remove those outliers from visualization? What techniques can we use?
+> * Question 6: plots the map of the distribution of flat prices based on neighborhood group?
 
 
 ## File Descriptions <a name="files"></a>
