@@ -11,7 +11,7 @@ A Udacity Data Scientist Nanodegree Project
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There are some installation of Anaconda that could be downloaded [here](https://www.anaconda.com/).  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
