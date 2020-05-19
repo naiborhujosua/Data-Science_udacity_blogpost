@@ -17,11 +17,11 @@ There are some installation of Anaconda that could be downloaded [here](https://
 
 I was interested in the Airbnb open data about New York City listings:
 
-Question 1: What are the most reviewed istings?list the 10 listings
-Question 2: What are the NY neigbourhood group with listings? list them
-Question 3: What are the Top 10 neighbourhood with Airbnb listings? Visualize it
-Question 4: What is the influence neighbourhood group on roop type?  visualize it
-Question 5: How many flats are more than expensive than 500$/night?Could we remove those outliers from visualization? What techniques can we use?
+> * Question 1: What are the most reviewed istings?list the 10 listings
+> * Question 2: What are the NY neigbourhood group with listings? list them
+> * Question 3: What are the Top 10 neighbourhood with Airbnb listings? Visualize it
+> * Question 4: What is the influence neighbourhood group on roop type?  visualize it
+> * Question 5: How many flats are more than expensive than 500$/night?Could we remove those outliers from visualization? What techniques can we use?
 
 
 ## File Descriptions <a name="files"></a>
