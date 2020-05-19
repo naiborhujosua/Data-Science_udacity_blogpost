@@ -17,14 +17,18 @@ There are some installation of Anaconda that could be downloaded [here](https://
 
 I was interested in the Airbnb open data about New York City listings:
 
-Question 1: Which User spent most during black Friday, list the top 20 spending users
+Question 1: What are the most reviewed istings?list the 10 listings
+Question 2: What are the NY neigbourhood group with listings? list them
+Question 3: What are the Top 10 neighbourhood with Airbnb listings? Visualize it
+Question 4: What is the influence neighbourhood group on roop type?  visualize it
+Question 5: How many flats are more than expensive than 500$/night?Could we remove those outliers from visualization? What techniques can we use?
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+There are 1 notebooks available here to showcase work related to the questions above. The notebooks is the process of answering all the questions above. There is a markdwon to show the thought process in solving the problems.
 
-AB_NYC_2019.csv      - This observations is about the  New York City Airnbnb listings Open Data, it contains different kinds of variables either numerical or categorical. It contains missing values as well that will be cleaned through the jupyter notebook.
+AB_NYC_2019.csv      - This observations contain 48895 rows and 16 columns about the  New York City Airnbnb listings Open Data, it contains different kinds of variables either numerical or categorical. It contains missing values as well that will be cleaned through the jupyter notebook.
 
 ## Results<a name="results"></a>
 
